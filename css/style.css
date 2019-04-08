@@ -57,6 +57,10 @@ h2 {
     font-weight: bold;
 }
 
+#CDT div {
+  margin: 0;
+}
+
 #CDT .number-wrapper {
     margin: 10px;
     -moz-box-shadow: 0 5px 8px #000000;
